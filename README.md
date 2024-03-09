@@ -16,9 +16,8 @@ microservices, CQRS and so on.
 microservices, design patterns and much more!
 
 <a href="https://oscmarb.com">
-<img src="https://oscmarb.com/opengraph.webp" alt="Óscar Martínez blog" />
+<img src="./blog-image.webp" alt="Óscar Martínez blog" />
 </a>
-
 
 ---
 
