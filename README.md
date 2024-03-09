@@ -23,4 +23,4 @@ microservices, design patterns and much more!
 
 ### 📊 Stats
 
-![Oscmarb's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscmarb&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=oscmarb&show_icons=true&theme=radical" alt="Óscar Martínez GitHub stats" />
