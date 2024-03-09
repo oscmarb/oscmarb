@@ -8,7 +8,16 @@ I'm Óscar Martínez, Tech Lead at Clicars. I'm a software engineer focused on c
 scalable, maintainable and testable code. Always learning about hexagonal architecture, event-driven architecture,
 microservices, CQRS and so on.
 
-<a href="https://oscmarb.com">Visit my blog</a>
+---
+
+### 👨‍💻 Blog
+
+<a href="oscmarb.com">oscmarb.com</a> is my blog where I talk about algorithms, data structures, clean architectures,
+microservices, design patterns and much more!
+
+<a href="https://oscmarb.com">
+<img src="https://oscmarb.com/opengraph.webp" alt="Óscar Martínez blog" />
+</a>
 
 ---
 
