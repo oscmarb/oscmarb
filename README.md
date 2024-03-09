@@ -1,4 +1,4 @@
-# 🙋‍♂️ Óscar Martínez
+# 🙋🏻‍♂️ Óscar Martínez
 
 **`Tech Lead at Clicars`**
 
@@ -10,7 +10,7 @@ microservices, CQRS and so on.
 
 ---
 
-### 👨‍💻 Blog
+### 👨🏻‍💻 Blog
 
 <a href="oscmarb.com">oscmarb.com</a> is my blog where I talk about algorithms, data structures, clean architectures,
 microservices, design patterns and much more!
