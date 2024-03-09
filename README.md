@@ -1,4 +1,4 @@
-# 👨‍💻 Óscar Martínez
+# 🙋‍♂️ Óscar Martínez
 
 **`Tech Lead at Clicars`**
 
