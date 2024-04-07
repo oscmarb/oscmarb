@@ -18,9 +18,3 @@ microservices, design patterns and much more!
 <a href="https://oscmarb.com">
 <img src="./blog-image.webp" alt="Óscar Martínez blog" />
 </a>
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=oscmarb&show_icons=true&theme=radical" alt="Óscar Martínez GitHub stats" />
