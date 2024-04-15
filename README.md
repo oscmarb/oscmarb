@@ -12,7 +12,7 @@ microservices, CQRS and so on.
 
 ### 👨🏻‍💻 Blog
 
-<a href="[oscmarb.com](https://oscmarb.com)">oscmarb.com</a> is my blog where I talk about algorithms, data structures, clean architectures,
+<a href="https://oscmarb.com">oscmarb.com</a> is my blog where I talk about algorithms, data structures, clean architectures,
 microservices, design patterns and much more!
 
 <a href="https://oscmarb.com">
