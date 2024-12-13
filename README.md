@@ -1,10 +1,10 @@
 # 🙋🏻‍♂️ Óscar Martínez
 
-**`Tech Lead at Clicars`**
+**`Software Egnineer at Amazon`**
 
 Hey there! 👋🏻
 
-I'm Óscar Martínez, Tech Lead at Clicars. I'm a software engineer focused on clean architectures and the development of
+I'm Óscar Martínez, Software Egnineer at Amazon. I'm focused on clean architectures and the development of
 scalable, maintainable and testable code. Always learning about hexagonal architecture, event-driven architecture,
 microservices, CQRS and so on.
 
