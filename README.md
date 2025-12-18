@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ Óscar Martínez
+# Óscar Martínez
 
 **`Software Engineer at Amazon`**
 
